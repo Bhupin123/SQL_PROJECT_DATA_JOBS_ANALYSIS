@@ -301,11 +301,3 @@ Through this project, I strengthened:
 
 ---
 
-If you'd like, I can also:
-
-✅ Add icons and badges
-✅ Make a shorter “portfolio-focused” version
-✅ Add installation/setup instructions
-✅ Convert this into a portfolio website section
-
-Just tell me!
