@@ -295,7 +295,8 @@ Through this project, I strengthened:
 
 # 📚 Project Files
 
-📂 **SQL Scripts:** `/project_sql/`
+📂 **SQL Scripts:** [project_sql folder](/project_sql/)
+
 📄 **README:** This file
 
 ---
