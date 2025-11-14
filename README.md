@@ -296,7 +296,6 @@ Through this project, I strengthened:
 # 📚 Project Files
 
 📂 **SQL Scripts:** `/project_sql/`
-📊 **Visualizations:** `/assets/`
 📄 **README:** This file
 
 ---
